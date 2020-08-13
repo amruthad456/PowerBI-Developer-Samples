@@ -14,7 +14,6 @@
 ## Steps to build and run:
 
 1. Open Eclipse
-test
 
 1. To import project,
 Select File > Open Projects from File System...
